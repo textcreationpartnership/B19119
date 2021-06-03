@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the safety of His Majesties navy, and the kingdome.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19119</idno><idno type="EEBO-CITATION">99890595</idno>
+  <idno type="VID">188456</idno>
+  <idno type="EEBO-PROQUEST">2240907353</idno>
+  
+            <idno type="OCLC"> 18853915</idno>
+            <idno type="STC">Wing C2626</idno>
+            <idno type="STC">Interim Tract Supplement Guide B.J.5[43]</idno>
+            <idno type="STC">ESTC R40333</idno>
+            <idno type="PROQUEST">ocm99890595</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890595e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19119)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188456)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:3[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the safety of His Majesties navy, and the kingdome.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1642 [i.e. 1643]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing CD-ROM, 1996 and Madan.</note>
+                  <note>The dates are given according to Lady Day dating.</note>
+                  <note>Dated at end: Given at our court at Oxford, this tenth day of February, in the eighteenth yeare of our reigne.</note>
+                  <note>Arms 37; Steele notation: and lignant haynous.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Royal Navy --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:188456:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>BY THE KING.</head>
+            <head type="sub">¶ <hi>A Proclamation for the safety of His</hi> Majesties <hi>Navy, and the Kingdome.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS His Majesties Ships were diverse Moneths since taken from His Majesty, and seized, and taken into the custody of the Earle of <hi>Warwick,</hi> without, and against His Majesties consent, who did traite<g ref="char:EOLhyphen"/>rously presume to usurpe to himselfe the Soveraignty of the Seas, and did use, and imploy His Majesties said Ships in hostile manner against His Majesty, and His good Subjects, and for the destroying of both: And whereas His Majesty hath too much cause to apprehend there is now some new intention of prepa<g ref="char:EOLhyphen"/>ring, and setting forth His Majesties Ships without His consent, under the command of the said <hi>Earle,</hi> or of some other in the Spring now approaching, and for no better purpose, or designe in some mischievous ma<g ref="char:EOLhyphen"/>lignant Persons (that have seduced, and misled the Members that remained in both Houses of Parliament, after very many had been forced thence by tumults, and almost ruined the Kingdome) then to carry away His Majesties Navy, and to leave His Majesty, His Children, and this Kingdome, exposed and betrayed to the invasion of Strangers, that shall be sure to find this His Majesties Kingdome in disturbance at Land at this present, and without strength at Sea, and either convey them<g ref="char:EOLhyphen"/>selves to some place of strength and refuge for their owne safety, or invite, and assist Strangers to invade His Majesty by Sea, as already they have publikely invited His Majesties Subjects of <hi>Scotland</hi> to assist them by Land, in the Warre which they have le<g ref="char:EOLhyphen"/>vied to overthrow His Majesty and this Kingdome. And whereas the said <hi>Earle,</hi> by the mischievous practice, and fraud in first procuring some pretended Authority from His Majesties late Admirall, that so he might seeme to have some Authority from, and under His Majesty, did thereby get the said Ships, and the men in them so farre into his possession, and power, that His Maje<g ref="char:EOLhyphen"/>sty wanted convenient meanes of conveying His Declaration to His said Subjects of that deceit, &amp; of the want of His Majesties consent, and of the absolute want of any just power, or authority which the said <hi>Earle,</hi> or any other without His Majesties con<g ref="char:EOLhyphen"/>sent could have of commanding of, or medling with His Majesties said Ships, by pretence of any Order, or Ordinance of one or both Houses of Parliament, wherewith he had misled His Majesties said Subjects. To the end therefore, that all the Officers of His Majesties Navy, and all other Persons whatsoever whom it may concerne, may have such timely knowledge as may pre<g ref="char:EOLhyphen"/>vent any mischiefe that hereafter may happen, concerning the preparing, furnishing, imploying, commanding, or serving in, of about His Majesties Ships, or any of them, His Majesty doth by this His Proclamation straitly Charge, and Command the principall Officers of His Majesties Navy, and all other Officers whatsoever, all Maisters of attendance, Maister Ship-wrights, Carpenters, Caulkers, Labourers, &amp; others whom it may concern, That they have no hand in making ready, graving, rigging, or sitting up any of His Majesties Ships, to goe to Sea, as also all His Store-keepers, and such who have the charge of the Stores, that they issue out none of His Majesties Stores, Rigging, sailes, or guns, powder, or shot, emptions, or other materialls, Timber, Planks, Cables, or Anchors thereunto. And likewise that none of His Majesties Victuallers assist therein for the victualling of them, nor any of His Gunners, Boatswaines, Pursers, or Carpenters, goe to Sea in any of them; And that none of the Trinity. housemen, or others presume to take charge of any of His Majesties Ships, either as Captaines, Masters, Pylots, or Master-mates, And that no Mariners, Saylor, Waterman, or other take any entertainement, or pay, or give any assistance, or doe any service in carrying, or conducting any of His Majesties Ships to Sea, or on the Sea without His Majesties direction to be signifyed under His great Seale, or signe Manuall, Notwithstanding any Order, or Ordinance of one, or both Houses of Parliament. And His Majesty doth further Declare, That He will not faile to take all possible care to provide for the safety of the Kingdome by such a guard of His Ships as shall be necessary, when He shall have hereby prevented such wicked designes upon His Navy as might disable Him so to provide for the same, His Majestie nothing doubting, but that this Kingdome, that in the courage, loyalty, skill, and knowledge of such of this Nation as have commanded and served at Sea, hath found safety at home, and been renow<g ref="char:EOLhyphen"/>ned, and feared through all the world, will by the same helpes find the same benefit, if by the malice of wicked men they be not taken from Him, or imployed against Him. And His Majesty doth further Declare, that if any Person of what degree, or qua<g ref="char:EOLhyphen"/>lity soever, shall presume to adhere to His Enemies and Rebells, in giving them any assistance in or about any of the premises, besides the losse of their offices, or places in which they ought to serve His Majesty, and the fees, or profits which belong there<g ref="char:EOLhyphen"/>unto, which they must expect, they will also incurre those paines, and forfeitures, which by the Law doe belong unto so haynous offences.</p>
+            <closer>
+               <dateline>¶ Given at Our Court at <hi>Oxford,</hi>
+                  <date>this Tenth day of <hi>February,</hi> in the Eighteenth yeare of Our Reigne.</date>
+               </dateline>
+               <lb/> God save the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
